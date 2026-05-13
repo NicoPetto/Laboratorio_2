@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\main.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\main.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/main.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\Publicacion.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\Publicacion.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/Publicacion.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/Publicacion.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\Investigador.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\Investigador.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/Investigador.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/Investigador.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\ArticuloRevista.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\ArticuloRevista.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/ArticuloRevista.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/ArticuloRevista.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\Libro.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\Libro.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/Libro.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/Libro.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\PaginaWeb.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\PaginaWeb.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/PaginaWeb.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/PaginaWeb.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\DTFecha.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\DTFecha.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/DTFecha.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/DTFecha.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_0/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_0.dir\\DTRefer.cpp.obj -c D:\\Users\\dev\\Laboratorio_0\\DTRefer.cpp",
+  "file": "D:/Users/dev/Laboratorio_0/DTRefer.cpp",
+  "output": "D:/Users/dev/Laboratorio_0/cmake-build-debug/CMakeFiles/Lab_0.dir/DTRefer.cpp.obj"
+}
+]
