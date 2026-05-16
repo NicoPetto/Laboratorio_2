@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\main.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\main.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/main.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\Sistema.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Negocio\\Sistema.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Negocio/Sistema.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Presentacion\\Menu.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Presentacion\\Menu.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Presentacion/Menu.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Presentacion/Menu.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Presentacion\\PantallaAltaInmueble.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Presentacion\\PantallaAltaInmueble.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Presentacion/PantallaAltaInmueble.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Presentacion\\PantallaRepresentarPropietario.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Presentacion\\PantallaRepresentarPropietario.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Presentacion/PantallaRepresentarPropietario.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Presentacion\\PantallaAltaPublicacion.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Presentacion\\PantallaAltaPublicacion.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Presentacion/PantallaAltaPublicacion.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Presentacion\\PantallaConsultarPublicaciones.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Lab_2\\Presentacion\\PantallaConsultarPublicaciones.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Lab_2/Presentacion/PantallaConsultarPublicaciones.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj"
+}
+]
