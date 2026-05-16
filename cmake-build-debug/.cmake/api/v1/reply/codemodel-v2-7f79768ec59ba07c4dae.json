@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Lab_2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab_2-Debug-19ffb9571a8195e38ca6.json",
+					"jsonFile" : "target-Lab_2-Debug-e0b852c0cd2c6b984e3f.json",
 					"name" : "Lab_2",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Users/dev/Laboratorio_2/Lab_2/cmake-build-debug",
-		"source" : "D:/Users/dev/Laboratorio_2/Lab_2"
+		"build" : "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+		"source" : "D:/Users/dev/Laboratorio_2"
 	},
 	"version" : 
 	{
