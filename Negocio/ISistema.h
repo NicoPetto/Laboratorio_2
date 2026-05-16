@@ -6,7 +6,6 @@
 #define LAB_2_ISISTEMA_H
 
 #include <set>
-#include <iostream>
 
 #include "DTInmueble.h"
 #include "DTPropietario.h"
@@ -17,7 +16,6 @@
 #include "DTInmobiliariaPublicacion.h"
 #include "DTVisita.h"
 
-using namespace std;
 
 class ISistema {
     public:
@@ -35,12 +33,12 @@ class ISistema {
     //ConsultarPublicacion
     virtual set<DTInmobiliariaPublicacion*> seleccionarPublicacion(DTTipoPublicacion* tipo, int precioMin, int precioMax, DTInmueble* tipoInmueble) = 0;
     virtual DTInmueble* seleccionarInmueble(int codigo) = 0;
-    virtual set<DTCliente> obtenerClientes() = 0;
+    virtual set<DTCliente*> obtenerClientes() = 0;
     virtual void agendarVisita(string nick, DTVisita* visita) = 0;
 
     //RepresentarPropietario
     // virtual set<DTInmobiliaria *> listarInmobiliarias() = 0;
-    virtual set <DTPropietario> verPropietariosInmobiliaria(string nick) = 0;
+    virtual set <DTPropietario*> verPropietariosInmobiliaria(string nick) = 0;
     virtual void representar(DTPropietario* propietario) = 0;
 
 

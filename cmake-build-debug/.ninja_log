@@ -23,3 +23,17 @@
 31	868	8006595062408518	CMakeFiles/Lab_2.dir/Negocio/DTInmobiliariaPublicacion.cpp.obj	b293ccc2798f971e
 36	871	8006595062461819	CMakeFiles/Lab_2.dir/Negocio/DTVisita.cpp.obj	3475e4563aed3337
 871	1097	8006595070814448	Lab_2.exe	ead08622f2bb6938
+192	1483	8006746258384607	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj	153e96debbc26bfb
+14	1485	8006746256588057	CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj	311a536e7fd4dc26
+206	1485	8006746258516746	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj	da31deeada764337
+212	1486	8006746258576584	CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj	e7e98805baf0229f
+201	1487	8006746258466792	CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj	999399f5f00fdaba
+1487	2249	8006746271324027	Lab_2.exe	ead08622f2bb6938
+7	821	8006752345557255	CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj	311a536e7fd4dc26
+822	1035	8006752353711961	Lab_2.exe	ead08622f2bb6938
+24	774	8006784275820840	CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj	e7e98805baf0229f
+20	777	8006784275773582	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj	da31deeada764337
+10	782	8006784275678705	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj	153e96debbc26bfb
+15	806	8006784275720820	CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj	999399f5f00fdaba
+5	949	8006784275623671	CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj	311a536e7fd4dc26
+949	1142	8006784285071514	Lab_2.exe	ead08622f2bb6938
