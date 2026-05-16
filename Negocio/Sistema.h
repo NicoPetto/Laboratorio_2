@@ -32,7 +32,7 @@ public:
     void seleccionarInmueble(int codigo, DTPublicacion* publicacion);
 
     //ConsultarPublicacion
-    set<DTInmobiliariaPublicacion*> seleccionarPublicacion(DTTipoPublicacion* tipo, int precioMin, int precioMax, DTTipoInmueble* tipoInmueble) = 0;
+    set<DTInmobiliariaPublicacion*> seleccionarPublicacion(DTTipoPublicacion* tipo, int precioMin, int precioMax, DTInmueble* tipoInmueble) = 0;
     DTInmueble* seleccionarInmueble(int codigo);
     set<DTCliente> obtenerClientes();
     void agendarVisita(string nick, DTVisita* visita);

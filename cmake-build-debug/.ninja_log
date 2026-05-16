@@ -1,3 +1,25 @@
 # ninja log v7
 12	150	8006472273855594	CMakeFiles/Lab_2.dir/Presentacion/Menu.cpp.obj	7cb2bbef70c43c
 2	933	8006472273754840	CMakeFiles/Lab_2.dir/main.cpp.obj	7f0783f098308ce1
+26	807	8006512523530288	CMakeFiles/Lab_2.dir/Negocio/DTInmueble.cpp.obj	b2381e5e4bed47be
+807	1307	8006512531333594	CMakeFiles/Lab_2.dir/Negocio/DTCasa.cpp.obj	ebe6b8289c1170c7
+33	1028	8006532803975113	CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj	51ee2861f10d1202
+1028	1935	8006532813934176	CMakeFiles/Lab_2.dir/Negocio/DTUsuario.cpp.obj	5c341d84654d8f64
+36	1106	8006540023508831	CMakeFiles/Lab_2.dir/Negocio/DTCliente.cpp.obj	5d5f4c8e6114f804
+35	1205	8006574596154262	CMakeFiles/Lab_2.dir/Negocio/DTPropietario.cpp.obj	23c3703c83d3ee75
+16	967	8006593009828591	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj	153e96debbc26bfb
+20	969	8006593009875426	CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj	999399f5f00fdaba
+28	1001	8006593009959771	CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj	e7e98805baf0229f
+24	1002	8006593009907787	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj	da31deeada764337
+33	1021	8006593010003374	CMakeFiles/Lab_2.dir/Negocio/DTInmobiliaria.cpp.obj	3e5f97a72133ae66
+20	1107	8006594753114944	CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj	999399f5f00fdaba
+24	1119	8006594753160910	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj	da31deeada764337
+29	1124	8006594753205939	CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj	e7e98805baf0229f
+17	1131	8006594753084734	CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj	153e96debbc26bfb
+34	1179	8006594753250399	CMakeFiles/Lab_2.dir/Negocio/DTPublicacion.cpp.obj	aff8e0f5a8d6d3da
+21	127	8006595062304733	CMakeFiles/Lab_2.dir/Negocio/DTFecha.cpp.obj	88f071163ea6ffa6
+16	846	8006595062264834	CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj	311a536e7fd4dc26
+27	850	8006595062368631	CMakeFiles/Lab_2.dir/Negocio/DTInmuebleAdministrado.cpp.obj	6197ad99b6fb9fde
+31	868	8006595062408518	CMakeFiles/Lab_2.dir/Negocio/DTInmobiliariaPublicacion.cpp.obj	b293ccc2798f971e
+36	871	8006595062461819	CMakeFiles/Lab_2.dir/Negocio/DTVisita.cpp.obj	3475e4563aed3337
+871	1097	8006595070814448	Lab_2.exe	ead08622f2bb6938

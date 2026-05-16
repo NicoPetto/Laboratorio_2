@@ -22,4 +22,25 @@ add_executable(Lab_2 main.cpp
         Negocio/DTCasa.cpp
         Negocio/DTCasa.h
         Negocio/DTApartamento.cpp
-        Negocio/DTApartamento.h)
+        Negocio/DTApartamento.h
+        Negocio/DTTipoTecho.h
+        Negocio/DTUsuario.cpp
+        Negocio/DTUsuario.h
+        Negocio/DTCliente.cpp
+        Negocio/DTCliente.h
+        Negocio/DTPropietario.cpp
+        Negocio/DTPropietario.h
+        Negocio/DTInmobiliaria.cpp
+        Negocio/DTInmobiliaria.h
+        Negocio/DTPublicacion.cpp
+        Negocio/DTPublicacion.h
+        Negocio/DTTipoPublicacion.h
+        Negocio/DTFecha.cpp
+        Negocio/DTFecha.h
+        Negocio/DTInmuebleAdministrado.cpp
+        Negocio/DTInmuebleAdministrado.h
+        Negocio/DTInmobiliariaPublicacion.cpp
+        Negocio/DTInmobiliariaPublicacion.h
+        Negocio/DTVisita.cpp
+        Negocio/DTVisita.h
+)

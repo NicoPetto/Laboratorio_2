@@ -66,7 +66,16 @@
 				12,
 				14,
 				16,
-				18
+				18,
+				21,
+				23,
+				25,
+				27,
+				29,
+				32,
+				34,
+				36,
+				38
 			]
 		}
 	],
@@ -108,7 +117,16 @@
 				12,
 				14,
 				16,
-				18
+				18,
+				21,
+				23,
+				25,
+				27,
+				29,
+				32,
+				34,
+				36,
+				38
 			]
 		},
 		{
@@ -124,7 +142,18 @@
 				13,
 				15,
 				17,
-				19
+				19,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				31,
+				33,
+				35,
+				37,
+				39
 			]
 		}
 	],
@@ -238,6 +267,115 @@
 		{
 			"backtrace" : 1,
 			"path" : "Negocio/DTApartamento.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTTipoTecho.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTUsuario.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTUsuario.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTCliente.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTCliente.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTPropietario.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTPropietario.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTInmobiliaria.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTInmobiliaria.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTPublicacion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTPublicacion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTTipoPublicacion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTFecha.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTFecha.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTInmuebleAdministrado.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTInmuebleAdministrado.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTInmobiliariaPublicacion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTInmobiliariaPublicacion.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Negocio/DTVisita.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Negocio/DTVisita.h",
 			"sourceGroupIndex" : 1
 		}
 	],

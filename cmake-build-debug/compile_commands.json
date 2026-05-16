@@ -58,5 +58,59 @@
   "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTApartamento.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTApartamento.cpp",
   "file": "D:/Users/dev/Laboratorio_2/Negocio/DTApartamento.cpp",
   "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTUsuario.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTUsuario.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTUsuario.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTUsuario.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTCliente.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTCliente.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTCliente.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTCliente.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTPropietario.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTPropietario.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTPropietario.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTPropietario.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTInmobiliaria.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTInmobiliaria.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTInmobiliaria.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTInmobiliaria.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTPublicacion.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTPublicacion.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTPublicacion.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTPublicacion.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTFecha.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTFecha.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTFecha.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTFecha.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTInmuebleAdministrado.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTInmuebleAdministrado.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTInmuebleAdministrado.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTInmuebleAdministrado.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTInmobiliariaPublicacion.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTInmobiliariaPublicacion.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTInmobiliariaPublicacion.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTInmobiliariaPublicacion.cpp.obj"
+},
+{
+  "directory": "D:/Users/dev/Laboratorio_2/cmake-build-debug",
+  "command": "\"D:\\Program Files\\JetBrains\\CLion 2026.1\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_2.dir\\Negocio\\DTVisita.cpp.obj -c D:\\Users\\dev\\Laboratorio_2\\Negocio\\DTVisita.cpp",
+  "file": "D:/Users/dev/Laboratorio_2/Negocio/DTVisita.cpp",
+  "output": "D:/Users/dev/Laboratorio_2/cmake-build-debug/CMakeFiles/Lab_2.dir/Negocio/DTVisita.cpp.obj"
 }
 ]

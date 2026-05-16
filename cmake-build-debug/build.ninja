@@ -129,6 +129,78 @@ build CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj: CXX_COMPILER__Lab_2_un
   OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
   TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
 
+build CMakeFiles/Lab_2.dir/Negocio/DTUsuario.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTUsuario.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTUsuario.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTCliente.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTCliente.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTCliente.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTPropietario.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTPropietario.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTPropietario.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTInmobiliaria.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTInmobiliaria.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTInmobiliaria.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTPublicacion.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTPublicacion.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTPublicacion.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTFecha.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTFecha.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTFecha.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTInmuebleAdministrado.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTInmuebleAdministrado.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTInmuebleAdministrado.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTInmobiliariaPublicacion.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTInmobiliariaPublicacion.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTInmobiliariaPublicacion.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
+build CMakeFiles/Lab_2.dir/Negocio/DTVisita.cpp.obj: CXX_COMPILER__Lab_2_unscanned_Debug D$:/Users/dev/Laboratorio_2/Negocio/DTVisita.cpp || cmake_object_order_depends_target_Lab_2
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Lab_2.dir\Negocio\DTVisita.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Lab_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab_2.dir\Negocio
+  TARGET_SUPPORT_DIR = CMakeFiles\Lab_2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Lab_2
@@ -137,7 +209,7 @@ build CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj: CXX_COMPILER__Lab_2_un
 #############################################
 # Link the executable Lab_2.exe
 
-build Lab_2.exe: CXX_EXECUTABLE_LINKER__Lab_2_Debug CMakeFiles/Lab_2.dir/main.cpp.obj CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/Menu.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTInmueble.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTCasa.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj
+build Lab_2.exe: CXX_EXECUTABLE_LINKER__Lab_2_Debug CMakeFiles/Lab_2.dir/main.cpp.obj CMakeFiles/Lab_2.dir/Negocio/Sistema.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/Menu.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaInmueble.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaRepresentarPropietario.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaAltaPublicacion.cpp.obj CMakeFiles/Lab_2.dir/Presentacion/PantallaConsultarPublicaciones.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTInmueble.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTCasa.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTApartamento.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTUsuario.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTCliente.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTPropietario.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTInmobiliaria.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTPublicacion.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTFecha.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTInmuebleAdministrado.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTInmobiliariaPublicacion.cpp.obj CMakeFiles/Lab_2.dir/Negocio/DTVisita.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
