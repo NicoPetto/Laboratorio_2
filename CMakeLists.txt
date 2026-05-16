@@ -16,4 +16,10 @@ add_executable(Lab_2 main.cpp
         Presentacion/PantallaAltaPublicacion.cpp
         Presentacion/PantallaAltaPublicacion.h
         Presentacion/PantallaConsultarPublicaciones.cpp
-        Presentacion/PantallaConsultarPublicaciones.h)
+        Presentacion/PantallaConsultarPublicaciones.h
+        Negocio/DTInmueble.cpp
+        Negocio/DTInmueble.h
+        Negocio/DTCasa.cpp
+        Negocio/DTCasa.h
+        Negocio/DTApartamento.cpp
+        Negocio/DTApartamento.h)
