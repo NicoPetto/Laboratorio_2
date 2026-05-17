@@ -51,24 +51,21 @@ set<DTPropietario*> Sistema::obtenerPropietarios() {
 //     propietario->getNickname();
 // };
 
-void Sistema::registroInmueble(DTInmueble* inmueble, DTPropietario* propietario) {
-    cout << "Se registró un inmueble " << inmueble->getCodigo();
-    cout << " con datos: " << endl;
+int Sistema::registroInmueble(DTInmueble* inmueble, DTPropietario* propietario) {
+    int idInmueble = 0;
+    cout << "Se registró un inmueble con datos: " << endl;
     cout << "Direccion: " << inmueble->getDireccion() << endl;
     cout << "Superficie: "<< inmueble->getSuperficie() << endl;
-    cout << " perteneciente al propietario " << propietario->getNickname();
-    cout << endl;
+    cout << " perteneciente al propietario " << propietario->getNickname() << endl;
+    inmueble->setCodigo(idInmueble+1);
+    return inmueble->getCodigo();
 };
 
-int Sistema::finalizarAltaInmueble() {
-    cout << "Completada alta del inmueble: ";
-    return 10;
-};
 
 //AltaPublicacion
 set<DTInmobiliaria*> Sistema::listarInmobiliarias() {
     set<DTInmobiliaria*> inmobiliarias;
-    cout << "Se obtuvo una lista de inmobiliarias";
+
     return inmobiliarias;
 };
 

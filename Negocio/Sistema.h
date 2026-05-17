@@ -23,7 +23,7 @@ public:
     //AltaImueble
     set<DTPropietario*> obtenerPropietarios();
     //void seleccionarPropietario(DTPropietario* propietario);
-    void registroInmueble(DTInmueble* inmueble, DTPropietario* propietario);
+    int registroInmueble(DTInmueble* inmueble, DTPropietario* propietario);
     int finalizarAltaInmueble();
 
     //AltaPublicacion

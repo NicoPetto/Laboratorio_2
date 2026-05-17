@@ -12,6 +12,7 @@ PantallaAltaInmueble::PantallaAltaInmueble() {
 }
 
 void PantallaAltaInmueble::mostrarPantallaAltaInmueble() {
+
     cout << "__--PANTALLA ALTA INMUEBLE--__" << endl << endl;
     cout << "Propietarios en el sistema: " << endl;
     set<DTPropietario*> listaPropietarios = this->sistema->obtenerPropietarios();
@@ -25,9 +26,7 @@ void PantallaAltaInmueble::mostrarPantallaAltaInmueble() {
 
     DTInmueble* inmuebleRegistrado = ingresoDatosInmueble();
 
-    this->sistema->registroInmueble(inmuebleRegistrado, propietarioSeleccionado);
-
-    int idAltaInmueble = this->sistema->finalizarAltaInmueble();
+    cout << "Inmueble registrado con el id: " << this->sistema->registroInmueble(inmuebleRegistrado, propietarioSeleccionado);
 
 
 }
@@ -129,7 +128,6 @@ DTInmueble *PantallaAltaInmueble::ingresoDatosInmueble() {
     inmueble->setNumeroPuerta(numeroPuertaIngresado);
     inmueble->setSuperficie(superficieIngresada);
     inmueble->setAnioConstruccion(anioConstruccionIngresado);
-    inmueble->setCodigo(1);
 
     return inmueble;
 
