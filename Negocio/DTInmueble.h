@@ -26,7 +26,11 @@ public:
     int getNumeroPuerta();
     int getSuperficie();
     int getAnioConstruccion();
-
+    void setCodigo(int codigo);
+    void setDireccion(string direccion);
+    void setNumeroPuerta(int numeroPuerta);
+    void setSuperficie(int superficie);
+    void setAnioConstruccion(int AnioConstruccion);
 
 };
 

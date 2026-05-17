@@ -39,3 +39,18 @@ int DTInmueble::getSuperficie() {
 int DTInmueble::getAnioConstruccion() {
     return this->AnioConstruccion;
 }
+void DTInmueble::setCodigo(int codigo) {
+    this->codigo = codigo;
+}
+void DTInmueble::setDireccion(string direccion) {
+    this->direccion = direccion;
+}
+void DTInmueble::setNumeroPuerta(int numero) {
+    this->numeroPuerta = numero;
+}
+void DTInmueble::setSuperficie(int superficie) {
+    this->superficie = superficie;
+}
+void DTInmueble::setAnioConstruccion(int AnioConstruccion) {
+    this->AnioConstruccion = AnioConstruccion;
+}

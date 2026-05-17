@@ -8,7 +8,13 @@
 
 
 class PantallaAltaInmueble {
-
+private:
+    ISistema* sistema;
+    DTPropietario* seleccionarPropietario(set<DTPropietario*> propietarios);
+    DTInmueble* ingresoDatosInmueble();
+public:
+    PantallaAltaInmueble();
+    void mostrarPantallaAltaInmueble();
 };
 
 

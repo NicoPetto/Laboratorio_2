@@ -19,6 +19,10 @@ public:
     DTUsuario();
     DTUsuario(string nickname, string password, string nombre, string email);
     virtual ~DTUsuario();
+    void setNickname(string nickname);
+    void setPassword(string password);
+    void setNombre(string nombre);
+    void setEmail(string email);
     string getNickname();
     string getPassword();
     string getNombre();

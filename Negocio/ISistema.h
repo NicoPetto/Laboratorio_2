@@ -15,14 +15,16 @@
 #include "DTInmuebleAdministrado.h"
 #include "DTInmobiliariaPublicacion.h"
 #include "DTVisita.h"
+#include "DTCasa.h"
+#include "DTApartamento.h"
 
 
 class ISistema {
     public:
     //AltaInmueble
     virtual set<DTPropietario*> obtenerPropietarios() = 0;
-    virtual void seleccionarPropietario(DTPropietario* propietario) = 0;
-    virtual void registroInmueble(DTInmueble* inmueble) = 0;
+    // virtual void seleccionarPropietario(DTPropietario* propietario) = 0;
+    virtual void registroInmueble(DTInmueble* inmueble, DTPropietario* propietario) = 0;
     virtual int finalizarAltaInmueble() = 0;
 
     //AltaPublicacion

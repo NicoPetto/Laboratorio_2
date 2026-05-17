@@ -28,20 +28,40 @@ Sistema::~Sistema() {
 //AltaImueble
 set<DTPropietario*> Sistema::obtenerPropietarios() {
     set <DTPropietario*> propietarios;
-    cout << "Se obtuvo una lista de propietarios";
+    DTPropietario * p1 = new DTPropietario("Brou", "099927270");
+    DTPropietario * p2 = new DTPropietario("Santander", "098765432");
+    DTPropietario * p3 = new DTPropietario("Caritas", "091234567");
+    p1->setNickname("1");
+    p1->setNombre("Propietario1");
+    p1->setEmail("p1@gmail.com");
+    p2->setNickname("2");
+    p2->setNombre("Propietario2");
+    p2->setEmail("p2@gmail.com");
+    p3->setNickname("3");
+    p3->setNombre("Propietario3");
+    p3->setEmail("p3@gmail.com");
+    propietarios.insert(p1);
+    propietarios.insert(p2);
+    propietarios.insert(p3);
     return propietarios;
 };
 
-void Sistema::seleccionarPropietario(DTPropietario* propietario) {
-    cout << "Se seleccionó un propietario";
-};
+// void Sistema::seleccionarPropietario(DTPropietario* propietario) {
+//     cout << "Se seleccionó un propietario con nick: ";
+//     propietario->getNickname();
+// };
 
-void Sistema::registroInmueble(DTInmueble* inmueble) {
-    cout << "Se registró un inmueble";
+void Sistema::registroInmueble(DTInmueble* inmueble, DTPropietario* propietario) {
+    cout << "Se registró un inmueble " << inmueble->getCodigo();
+    cout << " con datos: " << endl;
+    cout << "Direccion: " << inmueble->getDireccion() << endl;
+    cout << "Superficie: "<< inmueble->getSuperficie() << endl;
+    cout << " perteneciente al propietario " << propietario->getNickname();
+    cout << endl;
 };
 
 int Sistema::finalizarAltaInmueble() {
-    cout << "Completada alta del inmueble";
+    cout << "Completada alta del inmueble: ";
     return 10;
 };
 
@@ -76,19 +96,30 @@ DTInmueble* Sistema::seleccionarInmueble(int codigo) {
 };
 
 set<DTCliente*> Sistema::obtenerClientes() {
-
+    set<DTCliente*> clientes;
+    cout << "Se obtuvieron clientes";
+    return clientes;
 };
 
 void Sistema::agendarVisita(string nick, DTVisita* visita) {
-
+    cout << "Se agendaron visitas";
 };
 
 //RepresentarPropietario
 //set<DTInmobiliaria> listarInmobiliarias();
 set <DTPropietario*> Sistema::verPropietariosInmobiliaria(string nick) {
-
+    set<DTPropietario*> propietarios;
+    cout << "Se obtuvieron propietarios para inmobiliarias";
+    return propietarios;
 };
 
 void Sistema::representar(DTPropietario* propietario) {
-
+    cout << "Se representó un propietario";
 };
+
+Sistema* Sistema::getInstancia() {
+    if (Sistema::instancia == nullptr) {
+        Sistema::instancia = new Sistema();
+    }
+    return Sistema::instancia;
+}

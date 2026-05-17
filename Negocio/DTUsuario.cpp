@@ -34,3 +34,16 @@ string DTUsuario::getNombre() {
 string DTUsuario::getEmail() {
     return this->email;
 }
+
+void DTUsuario::setNickname(string nickname) {
+    this->nickname = nickname;
+}
+void DTUsuario::setPassword(string password) {
+    this->password = password;
+}
+void DTUsuario::setNombre(string nombre) {
+    this->nombre = nombre;
+}
+void DTUsuario::setEmail(string email) {
+    this->email = email;
+}
