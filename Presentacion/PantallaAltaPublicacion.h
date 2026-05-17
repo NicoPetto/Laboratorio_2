@@ -9,7 +9,13 @@
 
 
 class PantallaAltaPublicacion {
-
+private:
+    ISistema* sistema;
+    DTInmobiliaria * seleccionarInmobiliaria(set<DTInmobiliaria*> inmobiliarias);
+    DTInmuebleAdministrado * seleccionarInmuebleAdministrado(set<DTInmuebleAdministrado*> inmueblesAdministrados);
+public:
+    PantallaAltaPublicacion();
+    void mostrarPantallaAltaPublicacion();
 };
 
 

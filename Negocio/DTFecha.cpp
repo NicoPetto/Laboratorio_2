@@ -25,3 +25,13 @@ int DTFecha::getMes() {
 int DTFecha::getDia() {
     return this->dia;
 }
+
+void DTFecha::setAnio(int anio) {
+    this->anio = anio;
+}
+void DTFecha::setMes(int mes) {
+    this->mes = mes;
+}
+void DTFecha::setDia(int dia) {
+    this->dia = dia;
+}

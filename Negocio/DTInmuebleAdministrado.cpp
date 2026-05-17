@@ -8,7 +8,8 @@ DTInmuebleAdministrado::DTInmuebleAdministrado() {
 
 }
 
-DTInmuebleAdministrado::DTInmuebleAdministrado(int codigo, string direccion, DTFecha fecha) {
+DTInmuebleAdministrado::DTInmuebleAdministrado(int codigo,string direccion,DTFecha fecha): codigo(codigo),direccion(direccion),fecha(fecha) {
+
     this->codigo = codigo;
     this->direccion = direccion;
     this->fecha = fecha;
@@ -24,4 +25,16 @@ string DTInmuebleAdministrado::getDireccion() {
 
 DTFecha DTInmuebleAdministrado::getFecha() {
     return this->fecha;
+}
+
+void DTInmuebleAdministrado::setCodigo(int codigo) {
+    this->codigo = codigo;
+}
+
+void DTInmuebleAdministrado::setDireccion(string direccion) {
+    this->direccion = direccion;
+}
+
+void DTInmuebleAdministrado::setFecha(DTFecha fecha) {
+    this->fecha = fecha;
 }

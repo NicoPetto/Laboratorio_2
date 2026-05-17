@@ -18,6 +18,9 @@ public:
     int getAnio();
     int getMes();
     int getDia();
+    void setAnio(int anio);
+    void setMes(int mes);
+    void setDia(int dia);
 };
 
 

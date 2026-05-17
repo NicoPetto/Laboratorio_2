@@ -42,6 +42,9 @@ DTPropietario* PantallaAltaInmueble::seleccionarPropietario(set<DTPropietario*> 
             return propietario;
         }
     }
+
+    cout << "Error: no se encontro el propietario con nickname " << nicknameIngresado << endl;
+
     return nullptr;
 
 }

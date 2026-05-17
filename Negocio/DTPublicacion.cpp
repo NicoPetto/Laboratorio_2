@@ -7,7 +7,8 @@
 DTPublicacion::DTPublicacion() {
 }
 
-DTPublicacion::DTPublicacion(DTTipoPublicacion tipoPublicacion, string texto, int precio) {
+DTPublicacion::DTPublicacion(int codigo, DTTipoPublicacion tipoPublicacion, string texto, int precio) {
+    this->codigo = codigo;
     this->tipoPublicacion = tipoPublicacion;
     this->texto = texto;
     this->precio = precio;
@@ -23,4 +24,24 @@ string DTPublicacion::getTexto() {
 
 DTTipoPublicacion DTPublicacion::getTipoPublicacion() {
     return this->tipoPublicacion;
+}
+
+void DTPublicacion::setTipoPublicacion(DTTipoPublicacion tipoPublicacion) {
+    this->tipoPublicacion = tipoPublicacion;
+}
+
+void DTPublicacion::setTexto(string texto) {
+    this->texto = texto;
+}
+
+void DTPublicacion::setPrecio(int precio) {
+    this->precio = precio;
+}
+
+void DTPublicacion::setCodigo(int codigo) {
+    this->codigo = codigo;
+}
+
+int DTPublicacion::getCodigo() {
+    return this->codigo;
 }

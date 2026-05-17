@@ -65,18 +65,37 @@ int Sistema::registroInmueble(DTInmueble* inmueble, DTPropietario* propietario) 
 //AltaPublicacion
 set<DTInmobiliaria*> Sistema::listarInmobiliarias() {
     set<DTInmobiliaria*> inmobiliarias;
-
+    DTInmobiliaria * i1 = new DTInmobiliaria("DirInm1", "www.inm1.com", "111111111");
+    i1->setNickname("11");
+    i1->setNombre("Inm1");
+    DTInmobiliaria * i2 = new DTInmobiliaria("DirInm2", "www.inm2.com", "222222222");
+    i2->setNickname("22");
+    i2->setNombre("Inm2");
+    inmobiliarias.insert(i1);
+    inmobiliarias.insert(i2);
     return inmobiliarias;
 };
 
-set<DTInmuebleAdministrado*> Sistema::seleccinarInmobiliaria(string nickname) {
+set<DTInmuebleAdministrado*> Sistema::obtenerInmueblesAdministrados(DTInmobiliaria * inmobiliaria) {
     set<DTInmuebleAdministrado*> inmueblesAdministrados;
-    cout << "Se seleccionaron inmobiliarias";
+    DTFecha fecha = DTFecha(1111,11,11);
+    if (inmobiliaria->getNickname() == "11") {
+        DTInmuebleAdministrado * ia1 = new DTInmuebleAdministrado(1, "dirInmAdm1", fecha);
+        inmueblesAdministrados.insert(ia1);
+    } else if (inmobiliaria->getNickname() == "22") {
+        DTInmuebleAdministrado * ia2 = new DTInmuebleAdministrado(2, "dirInmAdm2", fecha);
+        inmueblesAdministrados.insert(ia2);
+    }
+
     return inmueblesAdministrados;
 };
 
-void Sistema::seleccionarInmueble(int codigo, DTPublicacion* publicacion) {
-    cout << "Se seleccionó un inmueble";
+DTPublicacion* Sistema::finalizarAlta(DTInmuebleAdministrado * inmuebleAdministrado, string texto, int precio) {
+    int codigoPublicacion = 1;
+    DTPublicacion * p1 = new DTPublicacion(codigoPublicacion, Alquiler, texto, precio);
+    cout << "Codigo del inmueble administrado: " << inmuebleAdministrado->getCodigo() << endl;
+    cout << "Direccion del inmueble: " << inmuebleAdministrado->getDireccion() << endl;
+    return p1;
 };
 
 //ConsultarPublicacion

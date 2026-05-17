@@ -28,8 +28,8 @@ public:
 
     //AltaPublicacion
     set<DTInmobiliaria*> listarInmobiliarias();
-    set<DTInmuebleAdministrado*> seleccinarInmobiliaria(string nickname);
-    void seleccionarInmueble(int codigo, DTPublicacion* publicacion);
+    set<DTInmuebleAdministrado*> obtenerInmueblesAdministrados(DTInmobiliaria* inmobiliaria);
+    DTPublicacion* finalizarAlta(DTInmuebleAdministrado * inmuebleAdminstrado, string texto, int precio);
 
     //ConsultarPublicacion
     set<DTInmobiliariaPublicacion*> seleccionarPublicacion(DTTipoPublicacion* tipo, int precioMin, int precioMax, DTInmueble* tipoInmueble);

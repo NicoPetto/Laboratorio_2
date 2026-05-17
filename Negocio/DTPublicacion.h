@@ -11,15 +11,21 @@ using namespace std;
 
 class DTPublicacion {
 private:
+    int codigo;
     DTTipoPublicacion tipoPublicacion;
     string texto;
     int precio;
 public:
     DTPublicacion();
-    DTPublicacion(DTTipoPublicacion tipoPublicacion, string texto, int precio);
+    DTPublicacion(int codigo, DTTipoPublicacion tipoPublicacion, string texto, int precio);
     DTTipoPublicacion getTipoPublicacion();
+    int getCodigo();
     string getTexto();
     int getPrecio();
+    void setTipoPublicacion(DTTipoPublicacion tipoPublicacion);
+    void setCodigo(int codigo);
+    void setTexto(string texto);
+    void setPrecio(int precio);
 };
 
 

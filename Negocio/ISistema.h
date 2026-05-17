@@ -29,8 +29,8 @@ class ISistema {
 
     //AltaPublicacion
     virtual set<DTInmobiliaria*> listarInmobiliarias() = 0;
-    virtual set<DTInmuebleAdministrado*> seleccinarInmobiliaria(string nickname) = 0;
-    virtual void seleccionarInmueble(int codigo, DTPublicacion* publicacion) = 0;
+    virtual set<DTInmuebleAdministrado*> obtenerInmueblesAdministrados(DTInmobiliaria * inmobiliaria) = 0;
+    virtual DTPublicacion* finalizarAlta(DTInmuebleAdministrado * inmuebleAdministrado, string texto, int precio) = 0;
 
     //ConsultarPublicacion
     virtual set<DTInmobiliariaPublicacion*> seleccionarPublicacion(DTTipoPublicacion* tipo, int precioMin, int precioMax, DTInmueble* tipoInmueble) = 0;

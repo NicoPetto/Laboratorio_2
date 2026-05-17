@@ -21,6 +21,9 @@ public:
     int getCodigo();
     string getDireccion();
     DTFecha getFecha();
+    void setCodigo(int codigo);
+    void setDireccion(string direccion);
+    void setFecha(DTFecha fecha);
 };
 
 
